@@ -18,6 +18,29 @@ Team Foundation Server (TFS) was a Microsoft product that provided a suite of to
 
 Microsoft has transitioned from TFS to Azure DevOps Services, a cloud-based platform that provides similar capabilities with improved scalability, flexibility, and integration with other cloud services. Azure DevOps Services covers a broader range of services beyond what TFS offered. While TFS itself may not be actively developed or promoted by Microsoft anymore, the concepts and practices associated with it are still relevant in the context of modern software development processes.
 
+ ## Azure Devops
+Azure DevOps, now known as Azure DevOps Services, is a set of development tools and services provided by Microsoft to help software development teams plan, develop, test, and deliver software more efficiently. It offers a comprehensive suite of tools for managing the entire software development lifecycle, from idea generation to deployment and monitoring.
+
+Azure DevOps includes various components and services:
+
+* Azure Boards: A work tracking system that allows teams to plan, track, and manage work items and user stories using customizable kanban boards or Agile planning tools.
+
+* Azure Repos: A version control system based on Git or Team Foundation Version Control (TFVC) that allows teams to manage and track source code changes. It provides features like pull requests, code reviews, and branching strategies.
+
+* Azure Pipelines: A continuous integration and continuous delivery (CI/CD) platform that enables teams to automate building, testing, and deploying applications across various platforms and environments.
+
+* Azure Test Plans: A testing and quality assurance tool that helps teams manage test cases, track testing progress, and ensure software quality through manual and automated testing.
+
+* Azure Artifacts: A package management system for storing and sharing software artifacts like libraries, packages, and dependencies, which can be used across projects and teams.
+
+* Azure DevTest Labs: A service that helps teams quickly provision development and test environments in Azure, enabling efficient testing and debugging of applications.
+
+* Azure Repos: A service that provides private Git repositories for version control and source code management.
+
+* Azure DevOps Server: This is the on-premises version of Azure DevOps, previously known as Team Foundation Server (TFS). It offers similar capabilities to Azure DevOps Services but can be hosted in an organization's own data center.
+
+Overall, Azure DevOps aims to streamline collaboration among development teams, automate repetitive tasks, improve software quality, and accelerate the software delivery process through an integrated set of tools and services. It supports various development methodologies, such as Agile, Scrum, and Waterfall, and is suitable for a wide range of project sizes and complexities.
+
 
  ## Benefits
 * Streamlined Development: TFS helped streamline software development processes by providing tools for version control, continuous integration, automated testing, and release management. This led to faster and more reliable software delivery.
